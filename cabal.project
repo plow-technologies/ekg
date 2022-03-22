@@ -1,0 +1,8 @@
+packages: .
+
+-- Follow this PR: https://github.com/tibbe/ekg-json/pull/12
+source-repository-package
+  type: git
+  location: https://github.com/vshabanov/ekg-json
+  tag: 00ebe7211c981686e65730b7144fbf5350462608
+  --sha256: sha256-VT8Ur585TCn03P2TVi6t92v2Z6tl8vKijICjse6ocv8=
